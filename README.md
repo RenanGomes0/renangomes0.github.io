@@ -12,5 +12,5 @@ quedra de linha tambem
 > será que vai ficar?  
 > espero que sim  
 > tamebem espero que a quebra de linha estaja funcionando   
-> se estiver colado nao funcionou
+> se estiver colado nao funcionou  
 < 
