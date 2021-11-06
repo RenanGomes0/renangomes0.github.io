@@ -14,6 +14,5 @@ quedra de linha tambem
 > tamebem espero que a quebra de linha estaja funcionando   
 > se estiver colado nao funcionou  
 
-
-----Esse é outro jeito 
+__Esse é outro jeito__ 
   
